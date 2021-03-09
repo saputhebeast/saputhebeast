@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub: @saputhebeast](https://img.shields.io/github/followers/saputhebeast?color=green&logo=github&style=flat-square)](https://github.com/saputhebeast)
+![](https://komarev.com/ghpvc/?username=saputhebeast&style=flat-square&color=orange)
 <!--
 **saputhebeast/saputhebeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
