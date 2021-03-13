@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### ⚡ Fun fact:
+#### ⚡ Fun fact: nooob!!!
 ![](https://komarev.com/ghpvc/?username=saputhebeast&style=flat-square&color=orange)
 <!--
 **saputhebeast/saputhebeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
