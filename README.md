@@ -7,7 +7,9 @@
 
 
 <hr>
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning 
+- 
+- **web development**
 <hr>
 
 <!--
