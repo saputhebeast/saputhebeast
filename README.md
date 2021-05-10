@@ -1,7 +1,10 @@
 
 <hr>
 ### Hi there 👋
+
 ![](https://komarev.com/ghpvc/?username=saputhebeast&style=flat-square&color=orange)
+
+
 <hr>
 - 🌱 I’m currently learning **web development**
 <hr>
