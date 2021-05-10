@@ -3,12 +3,7 @@
 
 <hr>
 <h3> 👨🏻‍💻 About Me </h3>
-
-- 👨‍🎓 Undergraduate of SLIIT following B.Sc (Hons) in IT specialization in softaware engineering.
-
-- 👨‍💻 I’m currently learning **React**
-
-- 📫 Reach me: **Layanjayasinghe2@gmail.com**
+🌱 I’m currently learning ...  **React**
 <hr>
 
 <!--
