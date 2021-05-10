@@ -1,16 +1,6 @@
-
-<hr>
-
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=saputhebeast&style=flat-square&color=orange)
-
-
-<hr>
-- 🌱 I’m currently learning 
-- 
-- **web development**
-<hr>
 
 <!--
 **saputhebeast/saputhebeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
