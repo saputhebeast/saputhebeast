@@ -3,6 +3,16 @@
 <!--
 **saputhebeast/saputhebeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<hr>
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 👨‍🎓 Undergraduate of SLIIT following B.Sc (Hons) in IT specialization in softaware engineering.
+
+- 👨‍💻 I’m currently learning **React**
+
+- 📫 Reach me: **Layanjayasinghe2@gmail.com**
+<hr>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
