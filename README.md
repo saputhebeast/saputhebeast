@@ -1,9 +1,9 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=saputhebeast&style=flat-square&color=orange)
 
 <hr>
-<h3> 👨🏻‍💻 About Me </h3>
-- 👨‍💻 I’m currently learning **React**
+### Hi there 👋
+![](https://komarev.com/ghpvc/?username=saputhebeast&style=flat-square&color=orange)
+<hr>
+- 🌱 I’m currently learning **web development**
 <hr>
 
 <!--
