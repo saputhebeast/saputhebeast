@@ -1,7 +1,5 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=saputhebeast&style=flat-square&color=orange)
-<!--
-**saputhebeast/saputhebeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <hr>
 <h3> 👨🏻‍💻 About Me </h3>
@@ -12,6 +10,9 @@
 
 - 📫 Reach me: **Layanjayasinghe2@gmail.com**
 <hr>
+
+<!--
+**saputhebeast/saputhebeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
