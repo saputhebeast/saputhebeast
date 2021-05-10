@@ -3,7 +3,7 @@
 
 <hr>
 <h3> 👨🏻‍💻 About Me </h3>
-- 🌱 I’m currently learning **React**
+- 👨‍💻 I’m currently learning **React**
 <hr>
 
 <!--
