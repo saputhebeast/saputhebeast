@@ -2,7 +2,7 @@
 ### Software Engineering Student
 
 <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
-I love coding in Python :snake:.
+I love coding in Python :snake:.<br>
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning php and mathematics required for ML and Data Science.
