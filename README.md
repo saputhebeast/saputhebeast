@@ -1,18 +1,16 @@
 ## Hi there, 👋  I'm sapumal! 
-![](https://komarev.com/ghpvc/?username=saputhebeast&style=flat-square&color=orange)
+![](https://komarev.com/ghpvc/?username=saputhebeast&style=flat-square&color=orange) 
+<a href="https://instagram.com/saputhebeast" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@saputhebeast-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/saputhebeast/" alt="Instagram Badge"></a>
 ### Software Engineering Student
 
 <p>Nothing on the planet can measure the exponential growth and excitement in the computing industry, and industry which I want to be a part of, particularly Software Engineering!</p>
 <p><code>I love coding in Python :snake:.</code></p>
-<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px"/>
+<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="300px" height="150px"/>
 
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning php and mathematics required for ML and Data Science.
 - :pencil2: I Write blogs on medium.com on free days.
-- 📫 How to reach me: <a href="https://instagram.com/saputhebeast" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@saputhebeast-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/saputhebeast/" alt="Instagram Badge"></a>
-
-
 
 <!--
 **saputhebeast/saputhebeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
