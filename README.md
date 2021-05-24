@@ -3,11 +3,11 @@
 
 <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
 
-- 🌱 I’m currently learning Deep learning
-- 👯 I’m looking to collaborate on PySpark
-- 🤔 I’m looking for help with Data Engineering stuff
-- 💬 Ask me about Python
-- 📫 How to reach me: [zahid_sc@hotmail.fr](zahid_sc@hotmail.fr)
+⚡ Fun fact:
+- 👯 I’m looking to collaborate on projects that are using Python.
+- 🌱 I’m currently learning php and mathematics required for ML and Data Science.
+- :pencil2: I Write blogs on medium.com on free days.
+- :musical_note: I love to hear country music.fr)
 
 ![](https://komarev.com/ghpvc/?username=saputhebeast&style=flat-square&color=orange)
 
