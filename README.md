@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on something coooool.
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning php and mathematics required for ML and Data Science.
-- :pencil2: I write articles on medium.com on free days.
+- :pencil2: I write articles on <a href="https://medium.com/@saputhebeast" target = "_blank">medium.com</a> on free days.
 
 <!--
 **saputhebeast/saputhebeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
