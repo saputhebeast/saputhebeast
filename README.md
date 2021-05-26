@@ -1,6 +1,8 @@
 ## Hi there, 👋  I'm sapumal! 
 ![](https://komarev.com/ghpvc/?username=saputhebeast&style=flat-square&color=orange) 
 <a href="https://instagram.com/saputhebeast" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@saputhebeast-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/saputhebeast/" alt="Instagram Badge"></a>
+<a href="https://medium.com/@saputhebeast" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@saputhebeast-purple?style=flat&logo=medium&logoColor=white&link=https://medium.com/@saputhebeast/" alt="Medium Badge"></a>
+<a href="https://hackerrank.com/saputhebeast" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@saputhebeast-purple?style=flat&logo=hackerrank&logoColor=white&link=https://hackerrank.com/saputhebeast/" alt="Hackerrank Badge"></a>
 ### Software Engineering Student
 
 <p>Nothing on the planet can measure the exponential growth and excitement in the computing industry, and industry which I want to be a part of, particularly Software Engineering!</p>
