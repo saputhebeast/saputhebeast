@@ -9,7 +9,6 @@
 <p><code>I love coding in Python :snake:.</code></p>
 <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="300px" height="150px"/>
 
-⚡ Fun fact:
 - 🔭 I’m currently working on something coooool.
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning php and mathematics required for ML and Data Science.
