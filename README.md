@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on something coooool.
 - 👯 I’m looking to collaborate on projects that are using Python.
-- 🌱 I’m currently learning php and mathematics required for ML and Data Science.
+- 🌱 I’m currently learning cpp.
 - :pencil2: I write articles on medium.com on free days.
 
 <!--
