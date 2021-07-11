@@ -7,7 +7,6 @@
 
 <p>Nothing on the planet can measure the exponential growth and excitement in the computing industry, and industry which I want to be a part of, particularly Software Engineering!</p>
 <p><code>I love coding in Python :snake:.</code></p>
-<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="300px" height="150px"/>
 
 - 🔭 I’m currently working on something coooool.
 - 👯 I’m looking to collaborate on projects that are using Python.
