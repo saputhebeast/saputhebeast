@@ -5,7 +5,7 @@
 
 ### Software Engineering Student
 
-<p>Nothing on the planet can measure the exponential growth and excitement in the computing industry, and industry which I want to be a part of, particularly Software Engineering!</p>
+<h3>Feeling like a model while training my model.</h3>
 <p><code>I love coding in Python :snake:.</code></p>
 
 - 🔭 I’m currently working on something coooool.
