@@ -5,7 +5,7 @@
 
 ### Software Engineering Student
 
-<h3>Feeling like a model while training my model.</h3>
+####Feeling like a model while training my model.
 <p><code>I love coding in Python :snake:.</code></p>
 
 - 🔭 I’m currently working on something coooool.
