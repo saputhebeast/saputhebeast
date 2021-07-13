@@ -3,8 +3,6 @@
 <a href="https://instagram.com/saputhebeast" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@saputhebeast-8A3AB9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/saputhebeast/" alt="Instagram Badge"></a>
 <a href="https://medium.com/@saputhebeast" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@saputhebeast-12100E?style=flat&logo=medium&logoColor=white&link=https://medium.com/@saputhebeast/" alt="Medium Badge"></a>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-168239%20lines%20of%20code-blue)
-
 ### Software Engineering Student
 
 #### Feeling like a model while training my model.
