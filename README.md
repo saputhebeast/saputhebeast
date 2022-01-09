@@ -9,7 +9,7 @@
 <p><code>I love coding in c++.</code></p>
 <!-- <p><code>I love coding in Python :snake:.</code></p> -->
 
-- 🔭 I’m currently working on something coooool.
+<!-- - 🔭 I’m currently working on something coooool. -->
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning cpp.
 - :pencil2: I write articles on medium.com on free days.
