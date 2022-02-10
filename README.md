@@ -5,7 +5,6 @@
 
 ### Software Engineering Student
 
-#### Feeling like a model while training my model.
 <p><code>I love coding in c++.</code></p>
 <!-- <p><code>I love coding in Python :snake:.</code></p> -->
 
