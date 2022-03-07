@@ -10,7 +10,7 @@
 
 <!-- - 🔭 I’m currently working on something coooool. -->
 - 👯 I’m looking to collaborate on projects that are using Python.
-- 🌱 I’m currently learning cpp.
+- 🌱 I’m currently learning java.
 - :pencil2: I write articles on medium.com on free days.
 
 <!--
