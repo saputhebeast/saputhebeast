@@ -3,7 +3,7 @@
 <a href="https://instagram.com/saputhebeast" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@saputhebeast-8A3AB9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/saputhebeast/" alt="Instagram Badge"></a>
 <a href="https://medium.com/@saputhebeast" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@saputhebeast-12100E?style=flat&logo=medium&logoColor=white&link=https://medium.com/@saputhebeast/" alt="Medium Badge"></a>
 
-### Software Engineering Student
+### Software Engineering Undergraduate
 
 <p><code>I love coding in c++.</code></p>
 <!-- <p><code>I love coding in Python :snake:.</code></p> -->
