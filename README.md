@@ -4,8 +4,7 @@
 <!-- - 🔭 I’m currently working on something coooool. -->
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning java.
-- :pencil2: I write articles on medium.com on free days.
-- 📫 How to reach me: <a href='www.linkedin.com/in/saputhebeast'>LinkedIn</a>
+<!-- - 📫 How to reach me: <a href='www.linkedin.com/in/saputhebeast'>LinkedIn</a> -->
 <!--
 **saputhebeast/saputhebeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
