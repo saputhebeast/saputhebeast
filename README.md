@@ -1,9 +1,10 @@
-### Software Engineering Undergraduate
-<p><code>I love coding in Python :snake:.</code></p>
+### Hello! 👋
+<!-- ### Software Engineering Undergraduate -->
+<!-- <p><code>I love coding in Python :snake:.</code></p> -->
 
 <!-- - 🔭 I’m currently working on something coooool. -->
 <!-- - 👯 I’m looking to collaborate on projects that are using Python. -->
-- 🌱 I’m currently learning java.
+<!-- - 🌱 I’m currently learning java. -->
 <!-- - 📫 How to reach me: <a href='www.linkedin.com/in/saputhebeast'>LinkedIn</a> -->
 <!--
 **saputhebeast/saputhebeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
